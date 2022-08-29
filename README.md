@@ -72,7 +72,7 @@ As part of our construct week for group project in Unit 5 at Masai School, we we
 
 
 
-  <p class="c0"><span class="c3">Tools Used -</span></p>
+  ### Tools Used 
   <ul class="c2 lst-kix_qfofq4qcdhuv-0 start">
     <li class="c7 li-bullet-0">
       <span class="c5">Github for code collaboration.</span>
@@ -81,7 +81,10 @@ As part of our construct week for group project in Unit 5 at Masai School, we we
       <span class="c5">Slack and Zoom for communication.</span>
     </li>
   </ul>
-  <p class="c0"><span class="c3">Learnings -</span></p>
+  
+  
+  ### Learnings
+  
   <p class="c0">
     <span class="c5"
       >We all learned how a team works and how to efficiently communicate when
