@@ -13,6 +13,25 @@ Companies want on-demand talent rather than full time employees. Workers want fl
 
 As part of our construct week for group project in Unit 5 at Masai School, we were given to build the clone of the hellobonsai website.
 
+ <p class="c0">
+    <span class="c12">Project link:</span
+    ><span class="c15"
+      ><a
+        href="https://petite-swing-7786.vercel.app/"
+        >&nbsp;https://petite-swing-7786.vercel.app/</a
+      ></span
+    >
+  </p>
+ <p class="c0">
+    <span class="c12">GitHub link:</span
+    ><span class="c15"
+      ><a
+        class="c1"
+        href="https://github.com/VishalBhuse/HelloBonsai"
+        >&nbsp;https://github.com/VishalBhuse/HelloBonsai</a
+      ></span
+    >
+    
 ## Authors
 
 - Deepak Mandal 
@@ -74,28 +93,9 @@ As part of our construct week for group project in Unit 5 at Masai School, we we
       thankful for the guidance and support our mentors provided us.</span
     >
   </p>
-  <p class="c0">
-    <span class="c12">Project link:</span
-    ><span class="c15"
-      ><a
-        class="c1"
-        href="https://petite-swing-7786.vercel.app/"
-        >&nbsp;https://petite-swing-7786.vercel.app/</a
-      ></span
-    >
+ 
+ 
   </p>
-  <p class="c0">
-    <span class="c12">GitHub link:</span
-    ><span class="c15"
-      ><a
-        class="c1"
-        href="https://github.com/Deepumandal/petite-swing-7786"
-        >&nbsp;https://github.com/Deepumandal/petite-swing-7786</a
-      ></span
-    >
-  </p>
-  <p class="c10"><span class="c11"></span></p>
-  <p class="c10"><span class="c17"></span></p>
   
   # Getting Started with Create React App
 
